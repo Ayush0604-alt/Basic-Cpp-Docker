@@ -2,6 +2,7 @@
 ---------------------------------------
 1️⃣ Clone the repository
 git clone https://github.com/your-username/cpp-docker-app.git
+----------------------------------------
 cd cpp-docker-app
 ---------------------------------------
 2️⃣ Build Docker Image:
