@@ -4,10 +4,10 @@
 git clone https://github.com/your-username/cpp-docker-app.git
 cd cpp-docker-app
 ---------------------------------------
-2️⃣ Build Docker Image
+2️⃣ Build Docker Image:
 docker build -t cpp-app .
 ---------------------------------------
-3️⃣ Run Container (Interactive Mode)
+3️⃣ Run Container (Interactive Mode):
 docker run -it cpp-app
 
 ---------------------------------------
